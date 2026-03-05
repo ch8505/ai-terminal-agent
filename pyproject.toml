@@ -1,0 +1,13 @@
+[project]
+name = "my-agent-cli"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "dotenv>=0.9.9",
+    "dotnet>=1.5.1",
+    "gradio>=6.6.0",
+    "groq>=1.0.0",
+    "openai>=2.21.0",
+]
