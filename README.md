@@ -213,3 +213,8 @@ uv run python sandbox.py "df -h"
 ---
 
 > ⚠️ **Disclaimer** — This tool executes real shell commands inside Docker. The sandbox provides strong isolation, but always review generated commands before running them.
+
+---
+## 📋 Project Documentation
+For the full development log, challenges, and tracking, see my project sheet:
+https://docs.google.com/spreadsheets/d/1fPOmp3hTzUoQw0KfYAvKveuq4JYap_DD5vg8WQ9ajjw/edit?gid=0#gid=0
